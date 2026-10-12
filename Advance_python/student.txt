@@ -1,0 +1,4 @@
+Name: Sravani
+Course: Python
+Marks: 90
+Skills: Python, Sql
